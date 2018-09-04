@@ -37,11 +37,6 @@
     {"id":76661,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8886","transactionDate":1528874554000,"creationDate":1528856879769,"creationUser":"Flow","workstationId":"102"},
     {"id":76660,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8885","transactionDate":1528874529000,"creationDate":1528856854690,"creationUser":"Flow","workstationId":"102"},
     {"id":76659,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8884","transactionDate":1528874491000,"creationDate":1528856806287,"creationUser":"Flow","workstationId":"102"},
-    {"id":76658,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8883","transactionDate":1528874428000,"creationDate":1528856724549,"creationUser":"Flow","workstationId":"102"},
-    {"id":76657,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8882","transactionDate":1528874286000,"creationDate":1528856579021,"creationUser":"Flow","workstationId":"102"},
-    {"id":76656,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8881","transactionDate":1528874130000,"creationDate":1528856328372,"creationUser":"Flow","workstationId":"102"},
-    {"id":76655,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8880","transactionDate":1528874046000,"creationDate":1528856306912,"creationUser":"Flow","workstationId":"102"},
-    {"id":76654,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8879","transactionDate":1528873951000,"creationDate":1528856251867,"creationUser":"Flow","workstationId":"102"},
-    {"id":76653,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8878","transactionDate":1528873907000,"creationDate":1528856241487,"creationUser":"Flow","workstationId":"102"}
+    {"id":76658,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8883","transactionDate":1528874428000,"creationDate":1528856724549,"creationUser":"Flow","workstationId":"102"}
   ]
 }

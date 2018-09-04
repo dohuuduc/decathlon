@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "": [
+  "transactions": [
     {"id":76683,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8908","transactionDate":1528876120000,"creationDate":1528858389032,"creationUser":"Flow","workstationId":"102"},
     {"id":76682,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8907","transactionDate":1528876072000,"creationDate":1528858361212,"creationUser":"Flow","workstationId":"102"},
     {"id":76681,"businessUnit":{"id":"7-1668-1668"},"sequenceNumber":"8906","transactionDate":1528875853000,"creationDate":1528858126073,"creationUser":"Flow","workstationId":"102"},
